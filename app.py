@@ -5,7 +5,7 @@ import os
 import gdown
 
 # Ganti dengan ID file Google Drive dari model yang baru
-MODEL_URL = "https://drive.google.com/uc?id=GANTI_DENGAN_ID_BARU"
+MODEL_URL = "https://drive.google.com/drive/folders/1FJW_BL2jsDR2XfAVXbTrSVjLlo0fSLPx?usp=sharing"
 MODEL_PATH = "bike_model.pkl"
 
 # Download model jika belum ada
